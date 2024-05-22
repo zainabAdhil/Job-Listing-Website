@@ -23,4 +23,4 @@ To get started with this project, follow these steps:
 - Open the website in your browser
 
 *Feel free to explore the repository, provide feedback, or contribute to the project!*
->>>>>>> d4905605631815218a14373913391131c7e95bd4
+

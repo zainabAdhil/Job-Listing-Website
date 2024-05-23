@@ -17,7 +17,7 @@ const router = createBrowserRouter(
       <Route path='/jobs' element={<JobsPage />} />
       <Route path='*' element={<NotFoundPage />}/>
     </Route>
-  )
+  ),
 )
 const App = () => {
   return <RouterProvider router={router} />;
